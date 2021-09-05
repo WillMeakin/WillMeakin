@@ -1,16 +1,11 @@
 - 👋 Hi, I’m @WillMeakin
 
 - 👀 I’m interested in ...
-1. Algorithms / Data Structures (Intro CS, AlgoExpert, LeetCode)
-2. Parallel / Concurrent / Distributed Computing
-3. Signal Processing (Computer Vision, Pattern Recognition, Optimisation)
-4. Artificial Intelligence (Machine Learning / Neural Networks, Evolutionary Computing)
-5. CS Math (Stats, Calculus (Lambda), Optimisation, Linear Algebra)
-6. CS Physics (Electronics, Quantum Computing)
-7. IRL/Open Projects
-8. Code Exercises
-9. Python (PyPi), C++ (STL)
-10. Linux OS (SystemD, Bash)
+1. Parallel / Concurrent / Distributed Computing
+2. Computer Vision
+3. Artificial Intelligence (Machine Learning / Neural Networks)
+4. Python, C++
+5. Linux OS
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
